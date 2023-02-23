@@ -1,0 +1,7 @@
+//Arquivo de configuração
+//Com esse arquivo basta mandar compilar com tsc apenas
+{
+    "compilerOptions": {
+        "target": "ESNext"
+    }
+}
